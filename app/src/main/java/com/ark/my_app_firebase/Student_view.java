@@ -1,4 +1,4 @@
-package com.example.puka;
+package com.ark.my_app_firebase;
 
 import androidx.appcompat.app.AppCompatActivity;
 
