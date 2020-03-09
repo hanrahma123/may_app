@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     progressBar1.setVisibility(View.GONE);
                     if (task.isSuccessful()) {
                         finish();
-                        Intent intent = new Intent(MainActivity.this, profileActivity.class);
+                        Intent intent = new Intent(MainActivity.this, Tutor_View.class);
                         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);//CLEARS ALL ACTIVITIES ON TOP OF STACK
                         intent.putExtra("email", mail);
                         startActivity(intent);
@@ -135,7 +135,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(mAuth.getCurrentUser() != null){//means user is already signed in
             //handle the already loged in user
             finish();
-            startActivity(new Intent(this,profileActivity.class));
+            startActivity(new Intent(this,Tutor_View.class));
         }
     }
 

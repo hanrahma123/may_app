@@ -215,7 +215,7 @@ public  class SignupActivity extends AppCompatActivity implements View.OnClickLi
         uploadFile(mail);
 
         if(x==1){
-            Intent intent = new Intent(SignupActivity.this,profileActivity.class);
+            Intent intent = new Intent(SignupActivity.this,Tutor_View.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);//CLEARS ALL ACTIVITIES ON TOP OF STACK
             intent.putExtra("email", mail);
            // intent.putExtra("url", l);
@@ -223,7 +223,7 @@ public  class SignupActivity extends AppCompatActivity implements View.OnClickLi
 
 
         }else{
-            Intent intent = new Intent(SignupActivity.this,profileActivity_student.class);
+            Intent intent = new Intent(SignupActivity.this,Student_View.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);//CLEARS ALL ACTIVITIES ON TOP OF STACK
             intent.putExtra("email", mail);
            // intent.putExtra("url", l);

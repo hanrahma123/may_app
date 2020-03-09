@@ -5,38 +5,45 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Student_view">
+    tools:context="com.ark.my_app_firebase.Student_View">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context=".Student_view">
+        tools:context="com.example.myapplication.MainActivity">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="horizontal">
 
-            <Spinner
-                android:id="@+id/spinner1"
-                android:layout_width="131dp"
-                android:layout_height="wrap_content" />
+<!--            <Spinner-->
+<!--                android:id="@+id/spinner1"-->
+<!--                android:layout_width="131dp"-->
+<!--                android:layout_height="wrap_content" />-->
 
-            <Spinner
-                android:id="@+id/spinner2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1" />
+<!--            <Spinner-->
+<!--                android:id="@+id/spinner2"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1" />-->
 
-            <Spinner
-                android:id="@+id/spinner3"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1" />
+<!--            <Spinner-->
+<!--                android:id="@+id/spinner3"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1" />-->
         </LinearLayout>
+        <Button
+            android:id="@+id/add_post"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Add Post"
+            />
 
         <com.riyagayasen.easyaccordion.AccordionView
+            android:id="@+id/sv_subject1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
@@ -83,12 +90,14 @@
         </com.riyagayasen.easyaccordion.AccordionView>
 
         <com.riyagayasen.easyaccordion.AccordionView
+            android:id="@+id/sv_subject2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:visibility="visible"
             app:isAnimated="true"
             app:heading="Maddie McGlinchey&#10;Subjects: Psychology, English, History"
+
             app:isExpanded="true"
             app:isPartitioned="true"
             android:layout_alignParentLeft="true">
@@ -131,6 +140,7 @@
         </com.riyagayasen.easyaccordion.AccordionView>
 
         <com.riyagayasen.easyaccordion.AccordionView
+            android:id="@+id/sv_subject3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
