@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="vertical"
+    tools:context="com.ark.my_app_firebase.Tutor_View">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/tutorpp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/default_profile_picture" /> <!-- change it by the real tutor profile pic -->
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/TutorName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/Name ?"
+                android:textSize="20dp" /> <!-- display the name of the tutor -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/add_post"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/buttons"
+                android:gravity="center"
+                android:text="+"
+                android:textColor="@color/white"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        tools:context="com.example.myapplication.MainActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.riyagayasen.easyaccordion.AccordionView
+                android:id="@+id/sv_subject1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:visibility="visible"
+                app:heading="Laura Pavlosky&#10;Subjects: Mathematics and Computer Science"
+                app:isAnimated="true"
+                app:isExpanded="true"
+                app:isPartitioned="true">
+
+                <TextView
+                    android:id="@+id/tv1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="About Me: Hi, my name is Laura. I'm a mathematics major and a computer science minor. I have taken the following courses at Trinity and am available for tutoring in any of these courses as well as general help in mathematics and computer science. &#10;Courses: Partial Differential Equations, Software Design Analysis, Systems Analysis and Design.&#10;Email: pavloskl@tcd.ie" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/tv1"
+                    android:orientation="horizontal">
+
+
+                    <ImageView
+                        android:id="@+id/imgstar2"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/ic_star_on_24dp" />
+
+                    <TextView
+                        android:id="@+id/scoreView1"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="17dp"
+                        android:layout_weight="1"
+                        android:text="@string/NUMBER OF UPVOTES"
+                        android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
+
+
+                </LinearLayout>
+
+            </com.riyagayasen.easyaccordion.AccordionView>
+
+            <com.riyagayasen.easyaccordion.AccordionView
+                android:id="@+id/sv_subject2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:visibility="visible"
+                app:heading="Maddie McGlinchey&#10;Subjects: Psychology, English, History"
+
+                app:isAnimated="true"
+                app:isExpanded="true"
+                app:isPartitioned="true">
+
+                <TextView
+                    android:id="@+id/tv2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="About Me: Hi, my name is Maddie. I'm a psychology major. I have taken the following courses at Trinity and am available for tutoring in any of these courses as well as general help in psychology, english, and history.&#10;Courses: Human Reasoning, Reading Ireland, Europe, Power and Society 1500-1800.&#10;Email: mmcglinc@tcd.ie" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/tv2"
+                    android:orientation="horizontal">
+
+
+                    <ImageView
+                        android:id="@+id/imgstar1"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/ic_star_on_24dp" />
+
+                    <TextView
+                        android:id="@+id/scoreView2"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="17dp"
+                        android:layout_weight="1"
+                        android:text="@string/NUMBER OF UPVOTES"
+                        android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
+
+                </LinearLayout>
+
+
+            </com.riyagayasen.easyaccordion.AccordionView>
+
+            <com.riyagayasen.easyaccordion.AccordionView
+                android:id="@+id/sv_subject3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:visibility="visible"
+                app:heading="Jessica Grodovich&#10;Subjects: History"
+                app:isAnimated="true"
+                app:isExpanded="true"
+                app:isPartitioned="true">
+
+                <TextView
+                    android:id="@+id/tv3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="About Me: Hi, my name is Jess. I'm a history major. I have taken the following courses at Trinity and am available for tutoring in any of these courses as well as general help in history.&#10;Courses: Life in Modern Ireland, War and Peace in Europe 1900-present &#10;Email: grodovic@bc.edu" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/tv3"
+                    android:orientation="horizontal">
+
+
+                    <ImageView
+                        android:id="@+id/imgstar3"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/ic_star_on_24dp" />
+
+                    <TextView
+                        android:id="@+id/scoreView3"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="17dp"
+                        android:layout_weight="1"
+                        android:text="@string/NUMBER OF UPVOTES"
+                        android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
+
+                </LinearLayout>
+
+
+            </com.riyagayasen.easyaccordion.AccordionView>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/goHome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttons"
+                android:gravity="center"
+                android:text="Home"
+                android:textColor="@color/white"
+                android:textSize="30dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/goChat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/buttons"
+                android:gravity="center"
+                android:text="Chat"
+                android:textColor="@color/white"
+                android:textSize="30dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
