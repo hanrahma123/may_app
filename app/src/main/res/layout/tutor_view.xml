@@ -7,7 +7,7 @@
     android:layout_marginLeft="10dp"
     android:layout_marginRight="10dp"
     android:orientation="vertical"
-    tools:context="com.ark.my_app_firebase.Tutor_View">
+    tools:context="com.ark.my_app_firebase.TutorView">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -43,9 +43,10 @@
                 android:id="@+id/TutorName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/Name ?"
-                android:textSize="20dp" /> <!-- display the name of the tutor -->
+                android:layout_weight="1"/>
+<!--                android:text="@string/Name ?"-->
+<!--                android:textSize="20dp" -->
+            /> <!-- display the name of the tutor -->
         </LinearLayout>
 
         <LinearLayout
@@ -119,9 +120,9 @@
                         android:layout_width="50dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="17dp"
-                        android:layout_weight="1"
-                        android:text="@string/NUMBER OF UPVOTES"
-                        android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
+                        android:layout_weight="1"/>
+<!--                        android:text="@string/NUMBER OF UPVOTES"-->
+<!--                        android:textSize="18sp" /> &lt;!&ndash; change "NUMBER OF UPVOTES" by the variable corresponding &ndash;&gt;-->
 
 
                 </LinearLayout>
@@ -166,8 +167,8 @@
                         android:layout_width="50dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="17dp"
-                        android:layout_weight="1"
-                        android:text="@string/NUMBER OF UPVOTES"
+                        android:layout_weight="1"/>
+<!--                        android:text="@string/NUMBER OF UPVOTES"-->
                         android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
 
                 </LinearLayout>
@@ -212,8 +213,8 @@
                         android:layout_width="50dp"
                         android:layout_height="wrap_content"
                         android:layout_margin="17dp"
-                        android:layout_weight="1"
-                        android:text="@string/NUMBER OF UPVOTES"
+                        android:layout_weight="1"/>
+<!--                        android:text="@string/NUMBER OF UPVOTES"-->
                         android:textSize="18sp" /> <!-- change "NUMBER OF UPVOTES" by the variable corresponding -->
 
                 </LinearLayout>

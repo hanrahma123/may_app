@@ -29,6 +29,9 @@
         <activity android:name="com.ark.my_app_firebase.profileActivity_student" />
         <activity android:name="com.ark.my_app_firebase.profileActivity" />
         <activity android:name="com.ark.my_app_firebase.SignupActivity" />
+        <activity android:name="com.ark.my_app_firebase.TutorPostCreate" />
+        <activity android:name="com.ark.my_app_firebase.Student_view" />
+        <activity android:name="com.ark.my_app_firebase.TutorView" />
         <activity android:name="com.ark.my_app_firebase.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

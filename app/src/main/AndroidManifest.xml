@@ -13,8 +13,8 @@
         <activity android:name=".profileActivity" />
         <activity android:name=".SignupActivity" />
         <activity android:name=".TutorPostCreate" />
-        <activity android:name=".Student_View" />
-        <activity android:name=".Tutor_View" />
+        <activity android:name=".Student_view" />
+        <activity android:name=".TutorView" />
 
         <activity android:name=".MainActivity">
             <intent-filter>

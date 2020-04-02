@@ -22,7 +22,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.riyagayasen.easyaccordion.AccordionView;
 
-public class Student_View extends AppCompatActivity {
+public class Student_view extends AppCompatActivity {
 
     private DatabaseReference myRef, posts;
     private FirebaseDatabase database;

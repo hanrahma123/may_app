@@ -23,6 +23,9 @@ anim btn_radio_to_off_mtrl_ring_outer_path_animation
 anim btn_radio_to_on_mtrl_dot_group_animation
 anim btn_radio_to_on_mtrl_ring_outer_animation
 anim btn_radio_to_on_mtrl_ring_outer_path_animation
+array CourseLevel
+array Subjects
+array UpVotes
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -80,6 +83,8 @@ attr backgroundTintMode
 attr barLength
 attr barrierAllowsGoneWidgets
 attr barrierDirection
+attr bodyBackground
+attr bodyBackgroundColor
 attr borderlessButtonStyle
 attr buttonBarButtonStyle
 attr buttonBarNegativeButtonStyle
@@ -169,6 +174,10 @@ attr fontVariationSettings
 attr fontWeight
 attr gapBetweenBars
 attr goIcon
+attr heading
+attr headingBackground
+attr headingBackgroundColor
+attr headingTextSize
 attr height
 attr hideOnContentScroll
 attr homeAsUpIndicator
@@ -182,7 +191,10 @@ attr imageAspectRatioAdjust
 attr imageButtonStyle
 attr indeterminateProgressStyle
 attr initialActivityCount
+attr isAnimated
+attr isExpanded
 attr isLightTheme
+attr isPartitioned
 attr itemPadding
 attr lastBaselineToBottomHeight
 attr layout
@@ -670,6 +682,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable accordion_background
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -701,9 +714,13 @@ drawable common_google_signin_btn_text_light_normal_background
 drawable default_profile_picture
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_arrow_drop_down_black_24dp
+drawable ic_arrow_drop_up_black_24dp
 drawable ic_image_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_star_off_24dp
+drawable ic_star_on_24dp
 drawable icon_book
 drawable lightbulb
 drawable notification_action_background
@@ -718,6 +735,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable toggle_selector
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -726,6 +744,7 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id TutorName
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -779,6 +798,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id add_post
 id adjust_height
 id adjust_width
 id alertTitle
@@ -789,9 +809,13 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnAdd
 id btnLogin
 id btnRegister
 id buttonPanel
+id button_1
+id button_2
+id button_3
 id button_profilepic
 id center_vertical
 id chains
@@ -810,21 +834,30 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id dropdown_image
+id dropup_image
 id edit_query
 id end
+id etBio
 id etEmail
+id etExp
 id etGrad
 id etName
 id etPassword
 id etPhone
 id etReEnterPassword
 id etSchool
+id etSubjects
 id expand_activities_button
 id expanded_menu
 id forever
+id goChat
+id goHome
 id gone
 id group_divider
 id groups
+id heading
+id heading_layout
 id home
 id homeAsUp
 id icon
@@ -834,6 +867,9 @@ id ifRoom
 id image
 id imageView
 id imageView2
+id imgstar1
+id imgstar2
+id imgstar3
 id info
 id invisible
 id isTutor
@@ -861,8 +897,10 @@ id notification_main_column_container
 id off
 id on
 id packed
+id paragraph_layout
 id parent
 id parentPanel
+id partition
 id percent
 id progressBar
 id progress_circular
@@ -873,6 +911,9 @@ id register_progress
 id right
 id right_icon
 id right_side
+id scoreView1
+id scoreView2
+id scoreView3
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -903,6 +944,9 @@ id standard
 id start
 id submenuarrow
 id submit_area
+id sv_subject1
+id sv_subject2
+id sv_subject3
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -932,8 +976,14 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tutor_bio
+id tutorpp
+id tv1
+id tv2
+id tv3
 id tvCreateProfile
 id tvLoad
+id tvTellUs
 id unchecked
 id uniform
 id up
@@ -983,10 +1033,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout accordion
 layout activity_main
 layout activity_profile
 layout activity_profile_student
 layout activity_signup
+layout activity_tutor_post
 layout custom_dialog
 layout notification_action
 layout notification_action_tombstone
@@ -997,7 +1049,9 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout student_view
 layout support_simple_spinner_dropdown_item
+layout tutor_view
 menu menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -1455,3 +1509,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+styleable accordion bodyBackground bodyBackgroundColor heading headingBackground headingBackgroundColor headingTextSize isAnimated isExpanded isPartitioned
