@@ -1,17 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\88b8882e6a15c728169a63194a12dedc\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.riyagayasen.android:easyaccordion:1.0.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ea3ef1f64ab54e5915d02cc16856ab7b\easyaccordion-1.0.3\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\fb8f7031ef66b8147647717c2aecca12\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\81a362b35962fa2496d450cbee5c4ecc\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\40d203d0674822dbdfc1bb4103e3a3d4\firebase-database-19.2.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:15:1-37:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\54aa53a8adaadc2968ca0bcce2d1462a\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\808d7e10cd964edb4db3a496265dbbef\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f15f2c10dd03afadad158d010498ad07\firebase-analytics-17.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d619842a7eaf1130694ae1c01f978c20\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\cceabc3c8dee5ebd8cd6698cb762f1fb\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\6b4351a8fb7ff3bebd2f5bef251ea683\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\946a39d7756c6b05aa38a853bdffc128\firebase-iid-20.0.2\AndroidManifest.xml:17:1-47:12
@@ -29,20 +38,17 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\bb7f6bd7a0a2da7328d8fd0afe87a97a\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\46d8fd2a1061f64bafd2cbe5a57dffbc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d888c399867a8f38619658b14b6b7815\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\32d6d4909a16d2ee7ad0c6d18077c046\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\8d38c20afe116acc8f623a554a3e696f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\b18a22a7d488d5a4c630bd657737271b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\55c8e6e745aacceb492535bf431d5720\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d45e841e71572de25c8d80ebec98d932\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\331630a23dfa1f0594bcf54d5352aa36\core-1.1.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\bf49d1e9988754dbe0dc022e3b661608\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\e5d41a636c43ed64186587baa70c55f2\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\373a185323e7fdfe979ee2534467a30f\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f3d3c9ef953af10d388177573d1cb616\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\eacaec61a98c327bdb4a7a1173d930da\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3576101df1addecb45ee4a121a0809b3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
@@ -54,25 +60,35 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\markh\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\cf1beec41d3606c2f878b1c5dd26a539\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\5e0444443ffb82f923834973bbf621d3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\7189998640d03cd8247a01f86409460d\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:1-28:12
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:5:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:6:22-70
 application
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:9:5-36:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\88b8882e6a15c728169a63194a12dedc\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\88b8882e6a15c728169a63194a12dedc\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.riyagayasen.android:easyaccordion:1.0.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ea3ef1f64ab54e5915d02cc16856ab7b\easyaccordion-1.0.3\AndroidManifest.xml:11:5-15:19
 MERGED from [com.riyagayasen.android:easyaccordion:1.0.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ea3ef1f64ab54e5915d02cc16856ab7b\easyaccordion-1.0.3\AndroidManifest.xml:11:5-15:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\81a362b35962fa2496d450cbee5c4ecc\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -81,12 +97,12 @@ MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradl
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\40d203d0674822dbdfc1bb4103e3a3d4\firebase-database-19.2.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f15f2c10dd03afadad158d010498ad07\firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f15f2c10dd03afadad158d010498ad07\firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
@@ -124,59 +140,79 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ma
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\331630a23dfa1f0594bcf54d5352aa36\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.ark.my_app_firebase.profileActivity_student
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:12:9-70
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:16:9-70
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:12:19-58
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:16:19-58
 activity#com.ark.my_app_firebase.profileActivity
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:13:9-53
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:17:9-53
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:13:19-50
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:17:19-50
 activity#com.ark.my_app_firebase.SignupActivity
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:14:9-52
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:18:9-52
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:14:19-49
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:18:19-49
 activity#com.ark.my_app_firebase.TutorPostCreate
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:15:9-53
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:19:9-53
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:15:19-50
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:19:19-50
 activity#com.ark.my_app_firebase.Student_view
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:16:9-50
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:20:9-50
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:20:19-47
 activity#com.ark.my_app_firebase.TutorView
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:17:9-47
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:21:9-47
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:17:19-44
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:21:19-44
+activity#com.ark.my_app_firebase.FindUserActivity
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:22:9-24:71
+	android:parentActivityName
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:24:13-59
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.ark.my_app_firebase.MainpageActivity
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:25:19-51
+activity#com.ark.my_app_firebase.RegisterActivity
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:26:19-51
+activity#com.ark.my_app_firebase.LoginActivity
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:27:19-48
 activity#com.ark.my_app_firebase.MainActivity
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:19:9-25:20
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:29:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml:33:27-74
 uses-sdk
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\88b8882e6a15c728169a63194a12dedc\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\88b8882e6a15c728169a63194a12dedc\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.riyagayasen.android:easyaccordion:1.0.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ea3ef1f64ab54e5915d02cc16856ab7b\easyaccordion-1.0.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.riyagayasen.android:easyaccordion:1.0.3] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ea3ef1f64ab54e5915d02cc16856ab7b\easyaccordion-1.0.3\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\fb8f7031ef66b8147647717c2aecca12\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -187,12 +223,28 @@ MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradl
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\40d203d0674822dbdfc1bb4103e3a3d4\firebase-database-19.2.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\54aa53a8adaadc2968ca0bcce2d1462a\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\54aa53a8adaadc2968ca0bcce2d1462a\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\808d7e10cd964edb4db3a496265dbbef\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\808d7e10cd964edb4db3a496265dbbef\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f15f2c10dd03afadad158d010498ad07\firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f15f2c10dd03afadad158d010498ad07\firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d619842a7eaf1130694ae1c01f978c20\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d619842a7eaf1130694ae1c01f978c20\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\cceabc3c8dee5ebd8cd6698cb762f1fb\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\cceabc3c8dee5ebd8cd6698cb762f1fb\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\6b4351a8fb7ff3bebd2f5bef251ea683\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\6b4351a8fb7ff3bebd2f5bef251ea683\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
@@ -227,34 +279,28 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mark
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\46d8fd2a1061f64bafd2cbe5a57dffbc\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d888c399867a8f38619658b14b6b7815\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d888c399867a8f38619658b14b6b7815\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\03427883b80ab78f3e6a356eba4df863\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\32d6d4909a16d2ee7ad0c6d18077c046\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\32d6d4909a16d2ee7ad0c6d18077c046\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\8d38c20afe116acc8f623a554a3e696f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\8d38c20afe116acc8f623a554a3e696f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\b18a22a7d488d5a4c630bd657737271b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\b18a22a7d488d5a4c630bd657737271b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\55c8e6e745aacceb492535bf431d5720\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\55c8e6e745aacceb492535bf431d5720\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d45e841e71572de25c8d80ebec98d932\activity-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\d45e841e71572de25c8d80ebec98d932\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\05209a9bf6c0004aab305c3d2c2ddb5c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\a66c090665c19e2493fdf5aa90a98622\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\2b97e8589c8f9cc9adcb585b2c3183a0\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\331630a23dfa1f0594bcf54d5352aa36\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\331630a23dfa1f0594bcf54d5352aa36\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\bf49d1e9988754dbe0dc022e3b661608\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\bf49d1e9988754dbe0dc022e3b661608\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\e5d41a636c43ed64186587baa70c55f2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\e5d41a636c43ed64186587baa70c55f2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\373a185323e7fdfe979ee2534467a30f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\373a185323e7fdfe979ee2534467a30f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\31e1e0ea40abf50bc1f09972fcda6618\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f3d3c9ef953af10d388177573d1cb616\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\f3d3c9ef953af10d388177573d1cb616\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\eacaec61a98c327bdb4a7a1173d930da\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
@@ -277,16 +323,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\markh\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\5e0444443ffb82f923834973bbf621d3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\7189998640d03cd8247a01f86409460d\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\7189998640d03cd8247a01f86409460d\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\markh\AndroidStudioProjects\3D5B\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\markh\AndroidStudioProjects\may_app\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\40d203d0674822dbdfc1bb4103e3a3d4\firebase-database-19.2.1\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
@@ -351,6 +397,14 @@ ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\
 		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3dec172bc7e653486c1abf8fdc6b36f2\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -373,14 +427,6 @@ ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\cac
 		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\1569b356ae21c59997606b87853bf436\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
-provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\ffc22000c7716bfea3d2f12317cdab15\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\markh\.gradle\caches\transforms-2\files-2.1\946a39d7756c6b05aa38a853bdffc128\firebase-iid-20.0.2\AndroidManifest.xml:24:5-68

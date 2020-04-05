@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\markh\\AndroidStudioProjects\\3D5B\\may_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\markh\\AndroidStudioProjects\\may_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\markh\\.gradle\\caches\\transforms-2\\files-2.1\\46d8fd2a1061f64bafd2cbe5a57dffbc\\jetified-play-services-basement-17.0.0\\res\\values-et\\values.xml",

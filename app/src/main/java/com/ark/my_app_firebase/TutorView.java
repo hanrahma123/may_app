@@ -29,7 +29,7 @@ public class TutorView extends AppCompatActivity {
     private TextView tv1, tv2, tv3;
     private String msg1, msg2, msg3;
     private AccordionView h1, h2, h3;
-    private Button addpost; //added a button to create posts remove if un-needed
+    private Button addpost, gohome, gochat; //added a button to create posts remove if un-needed
 
 
     @Override
@@ -38,6 +38,10 @@ public class TutorView extends AppCompatActivity {
         setContentView(R.layout.student_view);
 
         addpost =findViewById(R.id.add_post);
+        addpost.bringToFront();
+        gochat =findViewById(R.id.goChat);
+        gohome =findViewById(R.id.goHome);
+
         tv1 = findViewById(R.id.tv1);
         tv2 = findViewById(R.id.tv2);
         tv3 = findViewById(R.id.tv3);
@@ -57,6 +61,22 @@ public class TutorView extends AppCompatActivity {
 
                 Intent i = new Intent(getBaseContext(), TutorPostCreate.class);
                 startActivity(i);
+            }
+        });
+        gochat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent j = new Intent(getBaseContext(), MainpageActivity.class);
+                startActivity(j);
+            }
+        });
+        addpost.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                    // do nothing for now
+               // Intent k = new Intent(getBaseContext(), .class);
+               /// startActivity(k);
             }
         });
 
